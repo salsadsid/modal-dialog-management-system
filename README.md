@@ -4,7 +4,7 @@
 
 ### **1. Context API for Global State Management**
 
-You are using **React Context** to manage the state of dialogs. The **`DialogContext`** stores methods and data related to opening, closing, and tracking the dialogs. This is useful because React Context allows state and functions to be accessed across your component tree without having to pass them through props manually at every level.
+**React Context** to manage the state of dialogs. The **`DialogContext`** stores methods and data related to opening, closing, and tracking the dialogs. This is useful because React Context allows state and functions to be accessed across your component tree without having to pass them through props manually at every level.
 
 #### Key Points:
 
